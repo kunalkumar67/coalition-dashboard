@@ -72,6 +72,7 @@ npm run preview
 # Run ESLint to check code quality
 npm run lint
 ```
+##
 <img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/27f75d94-0646-4123-b24c-f5bca299b38f" />
 
 
