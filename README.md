@@ -218,4 +218,4 @@ For questions or suggestions, please open an issue on the [GitHub repository](ht
 
 ---
 
-**Hey connection! 🚀** If you found this project useful, please give it a ⭐
+**Hey connections! 🚀** If you found this project useful, please give it a ⭐
