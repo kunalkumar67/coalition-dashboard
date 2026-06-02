@@ -8,7 +8,7 @@ A modern, responsive healthcare analytics dashboard built with React and Vite. V
 
 ## ✨ Features
 
-- 📊 **Interactive Charts** - Real-time data visualization with Chart.js and Recharts xx
+- 📊 **Interactive Charts** - Real-time data visualization with Chart.js and Recharts 
 - 📱 **Responsive Design** - Fully responsive UI that works on desktop, tablet, and mobile
 - ⚡ **Fast Performance** - Built with Vite for lightning-fast development and builds
 - 🎨 **Modern UI** - Clean and professional dashboard interface
