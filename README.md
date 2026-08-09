@@ -1,4 +1,4 @@
-# 🏥 TECH.CARE DASHBOARD yoooo
+# 🏥 TECH.CARE DASHBOARD 
 
 A modern, responsive healthcare analytics dashboard built with React and Vite. Visualize patient data, medical metrics, and health statistics with beautiful, interactive charts and a clean user interface. 
 
