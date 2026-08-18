@@ -15,7 +15,7 @@ A modern, responsive healthcare analytics dashboard built with React and Vite. V
 - 🔄 **API Integration** - Axios for seamless backend communication
 - 📈 **Healthcare Metrics** - Display patient data, health statistics, and medical analytics
 - 🎯 **Easy Navigation** - Intuitive interface with React Icons for better UX 
-cxcxc
+  
 ## 🛠️ Tech Stack 
 
 - **Frontend Framework**: React 18.3.1
